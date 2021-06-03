@@ -98,7 +98,7 @@ NAME            	NAMESPACE	REVISION	UPDATED                             	STATUS 
 mysql-1612624192	default  	1       	2021-02-06 16:09:56.283059 +0100 CET	deployed	mysql-8.3.0	8.0.23
 ```
 
-The `helm list` function will show you a list of all deployed releases.
+The `helm ls` (or `helm list`) function will show you a list of all deployed releases.
 
 ## Uninstall a Release
 
